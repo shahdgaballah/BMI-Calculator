@@ -15,10 +15,6 @@ A Flutter application that calculates Body Mass Index (BMI) based on user input 
 - **Responsiveness:** Adaptive layouts for various screen sizes  
 
 
-### User Input Screen
-![User Input Screen](https://github.com/shahdgaballah/BMI-Calculator/blob/master/6032976527756478073.jpg)  
-
-![User Input Screen](https://github.com/shahdgaballah/BMI-Calculator/blob/master/6032976527756478073.jpg)  
-
-### BMI Results  
-![BMI Results](https://github.com/shahdgaballah/BMI-Calculator/blob/master/6032976527756478075.jpg) 
+### User Input Screen & BMI Results
+| ![](https://github.com/shahdgaballah/BMI-Calculator/blob/master/6032976527756478073.jpg) | ![](https://github.com/shahdgaballah/BMI-Calculator/blob/master/6032976527756478073.jpg) | ![](https://github.com/shahdgaballah/BMI-Calculator/blob/master/6032976527756478075.jpg) |
+|
